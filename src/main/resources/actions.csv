@@ -1,0 +1,4 @@
+time,bitmask,action
+01:03,2,action1
+01:03,3,action2
+00:48,1,action3
